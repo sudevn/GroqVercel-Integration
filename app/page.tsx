@@ -7,7 +7,7 @@ export default function Chat() {
   return (
     <main className="bg-gray-900 text-white">
       <h1 className="mt-0 m-10 text-4xl md:text-6xl text-center pt-10 md:pt-20 font-bold tracking-tighter">
-        Chat with <span className="underline underline-offset-8">Mixtral</span>{" "}
+        Chat with <span className="underline underline-offset-8">Llama3.3</span>{" "}
         ft. <span className="text-red-500">Groq</span> Cloud
       </h1>
 
