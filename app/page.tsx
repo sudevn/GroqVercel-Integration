@@ -24,7 +24,7 @@ export default function Chat() {
               {m.role === "user" ? (
                 <span className="font-semibold mr-1">User:</span>
               ) : (
-                <span className="font-semibold mr-1">Mixtral:</span>
+                <span className="font-semibold mr-1">Llama:</span>
               )}
               {m.content}
             </div>
